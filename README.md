@@ -20,3 +20,6 @@ Various approaches are welcome: Create new solutions or add atmosphere-smart fea
 * Internet of Things (IOT) and combinations of ground sensors to networks
 * Cleantech for industries, factories and agriculture
 * Smart city solutions
+
+### Background
+Copernicus AtmosHack is funded by the EU’s Copernicus Programme and has been organised through a partnership of [EUMETSAT](https://www.eumetsat.int/website/home/index.html), the [Copernicus Atmosphere Monitoring Service (CAMS)](https://atmosphere.copernicus.eu/), the [Finnish Meteorological Service (FMI)](https://en.ilmatieteenlaitos.fi/), and the [University of Helsinki](https://www.inar.helsinki.fi/).
