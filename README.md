@@ -1,6 +1,8 @@
 # Atmoshack2018
 This Github repository contains the resources for Copernicus Hackathon 2018 in Helsinki. More info at https://ultrahack.org/atmoshack2018
 
+![EventBanner](https://github.com/rakesh-p/Atmoshack2018/blob/master/01-images/Atmoshack2018-banner%20-%20small.jpg)
+
 # Challenge: Hack the Atmosphere!
 Urban air pollution poses a significant threat to human health and the quality of life of millions of people worldwide. Nine out of ten people are estimated to breathe air containing high levels of pollutants, causing around 7 million deaths every year. More than 90% of air pollution-related deaths occur in the developing world. Many of these areas have no surface air-quality monitoring networks and rely mainly on modelling and satellite information. Besides air pollution, there are other aspects of atmospheric composition that can affect health: UV radiation, which strongly depends on the stratospheric ozone layer, is another example.
 
@@ -18,3 +20,6 @@ Various approaches are welcome: Create new solutions or add atmosphere-smart fea
 * Internet of Things (IOT) and combinations of ground sensors to networks
 * Cleantech for industries, factories and agriculture
 * Smart city solutions
+
+### Background
+Copernicus AtmosHack is funded by the EU’s [Copernicus Programme](http://www.copernicus.eu/) and has been organised through a partnership of [EUMETSAT](https://www.eumetsat.int/website/home/index.html), the [Copernicus Atmosphere Monitoring Service (CAMS)](https://atmosphere.copernicus.eu/), the [Finnish Meteorological Service (FMI)](https://en.ilmatieteenlaitos.fi/), and the [University of Helsinki](https://www.inar.helsinki.fi/).
