@@ -6,7 +6,7 @@ https://www.eumetsat.int/website/home/News/ConferencesandEvents/DAT_4070861.html
 
 ![EventBanner](https://github.com/rakesh-p/Atmoshack2018/blob/master/01-images/Atmoshack2018-banner.jpg)
 
-# Challenge: Hack the Atmosphere!
+### Challenge
 Urban air pollution poses a significant threat to human health and the quality of life of millions of people worldwide. Nine out of ten people are estimated to breathe air containing high levels of pollutants, causing around 7 million deaths every year. More than 90% of air pollution-related deaths occur in the developing world. Many of these areas have no surface air-quality monitoring networks and rely mainly on modelling and satellite information. 
 
 Your challenge is to create solutions that help people in their daily lives to reduce their exposure to pollutants and UV radiation. To solve this challenge, you are encouraged to use Copernicus atmospheric monitoring data.
